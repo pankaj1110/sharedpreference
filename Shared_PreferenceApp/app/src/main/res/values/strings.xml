@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shared_Preference  App</string>
+    <string name="Back_string"><u>Back</u></string>
+    <string name="Register_string"><u>Register Here</u></string>
+</resources>
